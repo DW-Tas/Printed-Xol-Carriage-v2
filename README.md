@@ -50,11 +50,11 @@ This print is not pre-scaled for any particular filament. Tune your print settin
 | --- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | 1   | Printed part - Xol-Carriage-v2.stl                                                        | Main carriage part                                                                                                 |
 | 1   | Printed part - Probe module                                                               | Select the STL to match your probe                                                                                 |
-| 7   | DIN 562 thin square nut - M3                                                              | Used in most places a screw threads in                                                                             |
-| 7   | M3x8 SHCS                                                                                 | * Fasten Xol-Carriage to MGN12H carriage <br>* MGN12H Carriage clamping<br>* 3rd Mounting point for toolhead board |
+| 7   | DIN 562 thin square nut - M3                                                              | Used in most places a screw threads in <br><img src='docs/images/install_square_nuts_x7.png' width=100>                      |
+| 7   | M3x8 SHCS                                                                                 | * Fasten Xol-Carriage to MGN12H carriage <br>* MGN12H Carriage clamping `⚠️ Screws thread into plastic`<br>* 3rd Mounting point for toolhead board |
 | 3   | M3 DIN9021 large flat washer                                                              | * MGN12H Carriage clamping. `Alternatively use M3 + M5 stacked washers`<br>* 3rd Mounting point for toolhead board |
 | 2   | M3x8 Socket button head screw (BHCS)                                                      | "Hook" screws to hang A4T onto carriage                                                                            |
-| 2   | Probe mounting screws<br>Beacon/Carographer: M3x12 BHCS<br>Klicky (both types): M3x8 BHCS | ⚠️ Screws that come with Beacon or Cartographer probe are likely to be too short                                  |
+| 2   | Probe mounting screws<br>Beacon/Carographer: M3x12 BHCS<br>Klicky (both types): M3x8 BHCS | ⚠️ Screws that come with Beacon or Cartographer probe are likely to be too short                                 |
 
 <br/><br/>
 
