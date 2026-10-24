@@ -9,17 +9,6 @@
 <img src='docs/images/Xol-Carriage.5.png' width=640 />
 
 An updated version of the original Xol-Carriage.
-## Print Settings
-This print is not pre-scaled for any particular filament. Tune your print settings for accurate prints.
-
-* 0.2mm layer height (including first layer)
-* 0.4mm Nozzle
-* 5 Top/bottom layers
-* 5 Walls
-* 55% infill
-
-*Note: Printing with walls wider than 0.4mm will affect the built-in support.*
-
 
 ## Frequently Asked Questions (FAQ)
 
@@ -39,7 +28,37 @@ This print is not pre-scaled for any particular filament. Tune your print settin
 
 </dl>
 
-## Tips
+<br/><br/>
+
+## Print Settings
+This print is not pre-scaled for any particular filament. Tune your print settings for accurate prints.
+
+* 0.2mm layer height (including first layer)
+* 0.4mm Nozzle
+* 5 Top/bottom layers
+* 5 Walls
+* 55% infill
+* Supports are included in the STL (no need for slicer supports)
+
+*Note: Printing with walls wider than 0.4mm will affect the built-in support.*
+
+<br/><br/>
+
+## Bill of Materials
+
+| Qty | Item                                                                                      | Note                                                                                                               |
+| --- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 1   | Printed part - Xol-Carriage-v2.stl                                                        | Main carriage part                                                                                                 |
+| 1   | Printed part - Probe module                                                               | Select the STL to match your probe                                                                                 |
+| 7   | DIN 562 thin square nut - M3                                                              | Used in most places a screw threads in                                                                             |
+| 7   | M3x8 SHCS                                                                                 | * Fasten Xol-Carriage to MGN12H carriage <br>* MGN12H Carriage clamping<br>* 3rd Mounting point for toolhead board |
+| 3   | M3 DIN9021 large flat washer                                                              | * MGN12H Carriage clamping. `Alternatively use M3 + M5 stacked washers`<br>* 3rd Mounting point for toolhead board |
+| 2   | M3x8 Socket button head screw (BHCS)                                                      | "Hook" screws to hang A4T onto carriage                                                                            |
+| 2   | Probe mounting screws<br>Beacon/Carographer: M3x12 BHCS<br>Klicky (both types): M3x8 BHCS | ⚠️ Screws that come with Beacon or Cartographer probe are likely to be too short                                  |
+
+<br/><br/>
+
+
 
 > [!TIP] 
 > ### You can help support the development of this project.<br/>
